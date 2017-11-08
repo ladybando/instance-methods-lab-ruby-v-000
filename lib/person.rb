@@ -1,4 +1,4 @@
 class Person
-  def bark
+  def walk
   end
 end
